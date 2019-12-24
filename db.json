@@ -1,0 +1,23 @@
+{
+    "account":
+    {
+        "customerName": "Henry Doe",
+        "email": "henrydoe@siemens.com",
+        "region": "US"
+    },
+
+    "business":
+    {
+        "accountNumber": "A1BOXD5H1U1KE4",
+        "businessAccount": "Seimens",
+        "orderID": "111-9737892-2459464"
+    },
+
+    "amazon":
+    {
+        "contactType": "Phone",
+        "csAssociate": "Vibhav Dhamin",
+        "csEmail": "vidha@amazon.com"
+    }
+}
+
