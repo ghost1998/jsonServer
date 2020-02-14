@@ -1,23 +1,14 @@
 {
-    "account":
-    {
-        "customerName": "Henry Doe",
-        "email": "henrydoe@siemens.com",
-        "region": "US"
-    },
-
-    "business":
-    {
-        "accountNumber": "A1BOXD5H1U1KE4",
-        "businessAccount": "Seimens",
-        "orderID": "111-9737892-2459464"
-    },
-
-    "amazon":
-    {
-        "contactType": "Phone",
-        "csAssociate": "Vibhav Dhamin",
-        "csEmail": "vidha@amazon.com"
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
